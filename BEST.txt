@@ -1,0 +1,10 @@
+mix03 - universal and natural
+mix06 - natural, best details
+mix07 - more accurate shapes
+mix08 - detailed, rough shapes
+mix08nf - a bit more natural version
+mix11_sharper - natural, rough shapes
+mix12 - balanaced but bringing more details
+mix13 - very sharp but in a natural way
+mix14 - smooth and more-or-less natural
+
